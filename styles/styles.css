@@ -35,9 +35,10 @@ aside {
     padding: 10px;
     background-color: rgba(241, 226, 226, 0.767);
     color: black;
+    text-align: center;
 }
 
-img {
+aside img {
     width: 200px;
     height: auto;
 }
